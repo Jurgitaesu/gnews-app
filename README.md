@@ -1,8 +1,30 @@
-# Getting Started with Create React App
+## Requirements
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Node.js version >= 12
 
-## Available Scripts
+npm version >= 6.14
+
+## Installation
+
+Clone the repo in your terminal by clicking the green clone or download button at the top right and copyin the url
+
+In your terminal, type `git clone URL`
+
+replace URL with the url you copied hit enter This will copy all the files from this repo down to your computer
+
+In your terminal, cd into the directory you just created
+
+Type `npm install` to install all dependencies
+
+## Starting server
+
+Start Node.js server:
+
+### `cd server`
+
+### `node server.js`
+
+Open page:
 
 In the project directory, you can run:
 
@@ -13,6 +35,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## Other available scripts:
 
 ### `npm test`
 
